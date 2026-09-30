@@ -1,0 +1,8 @@
+pre {
+  font-size: 14px;
+}
+
+.card-img-top {
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+}
